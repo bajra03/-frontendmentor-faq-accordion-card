@@ -154,6 +154,10 @@ main {
     grid-template-columns: 1fr 1fr;
   }
 
+  .faq-title {
+    text-align: left;
+  }
+
   /* Left Column */
   .col:nth-child(1) {
     background: url(./images/bg-pattern-desktop.svg);
